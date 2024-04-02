@@ -9,7 +9,7 @@ This Python script helps in merging multiple PDF files into a single combined PD
 
 ## Acknowledgements
 
-This script is based on the work of [Internet made coder](https://www.youtube.com/channel/UCzmJSCWa08nfnLy63vDcsOQ) on YouTube. I've made some tweaks and added functions for better usability.
+This script is based on the work of [Internet made coder](https://www.youtube.com/@InternetMadeCoder) on YouTube. I've made some tweaks and added functions for better usability.
 
 ## How to Use
 
@@ -38,7 +38,7 @@ Feel free to contribute, report issues, or suggest improvements!
 
 # Thanks!
 
-A big shoutout to [Internet made coder](https://www.youtube.com/channel/UCzmJSCWa08nfnLy63vDcsOQ) for the base code of this PDF Merger script. I've made a few adjustments to suit my needs, and it works like a charm!
+A big shoutout to [Internet made coder](https://www.youtube.com/@InternetMadeCoder) for the base code of this PDF Merger script. I've made a few adjustments to suit my needs, and it works like a charm!
 
 Happy Coding! 🚀
 
